@@ -6,7 +6,7 @@ def start_tapp():
         'platformName': 'ios',
         'platformVersion': '10',
         'deviceName': 'xxxxx',
-        'app': 'com.jiangjia.gif',
+        'app': 'xxxxxx',
         'udid': 'xxxxxxxx',
     }
     driver = webdriver.Remote('http://localhost:4723/wd/hub', caps)
