@@ -5,7 +5,7 @@ def start_tapp():
     caps = {
         'platformName': 'ios',
         'platformVersion': '10',
-        'deviceName': '“纪淼”的 iPhone',
+        'deviceName': 'xxx',
         'app': 'com.jiangjia.gif',
         'udid': '9380f2f029afff8b022165223d2b40dc7966acc6',
     }
